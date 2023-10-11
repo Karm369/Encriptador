@@ -117,10 +117,12 @@ textarea::placeholder{
     background-color: black;
     color: #797979;
 }
-.boton-copiar{
-
+.boton-copiar:hover{
+    color: #adadad;
+    cursor: pointer;
 }
-   
+
+
 footer{
     height: 100px;
     background: rgb(85,85,85);
